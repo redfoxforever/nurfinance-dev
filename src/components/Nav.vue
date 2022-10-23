@@ -205,7 +205,7 @@ export default {
             }
 
             &:hover {
-                border-radius: 5px 35px;
+                border-radius: 10px 10px 0px 0px;
             }
         }
     }
